@@ -1,1 +1,1 @@
-Programa de modulación digital para Comunicaciones Analogas y Dig
+Programa de modulación digital creado por leyder pacheco y manuel torres
